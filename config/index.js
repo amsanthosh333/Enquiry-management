@@ -4,5 +4,4 @@ const urlConstants = require("../constant/urlconstant")
 module.exports = {
   response: responseConstants,
   url: urlConstants,
-
 }
